@@ -1,0 +1,60 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/nikitos/Рабочий стол/src/Bot.cpp
+Bot.h
+/home/nikitos/Рабочий стол/src/Bot.h
+vector
+-
+
+/home/nikitos/Рабочий стол/src/Bot.h
+cstdlib
+-
+Field.h
+/home/nikitos/Рабочий стол/src/Field.h
+
+/home/nikitos/Рабочий стол/src/Field.cpp
+iostream
+-
+vector
+-
+Field.h
+/home/nikitos/Рабочий стол/src/Field.h
+
+/home/nikitos/Рабочий стол/src/Field.h
+iostream
+-
+vector
+-
+
+/home/nikitos/Рабочий стол/src/MNTS.cpp
+MNTS.h
+/home/nikitos/Рабочий стол/src/MNTS.h
+
+/home/nikitos/Рабочий стол/src/MNTS.h
+iostream
+-
+vector
+-
+Bot.h
+/home/nikitos/Рабочий стол/src/Bot.h
+Field.h
+/home/nikitos/Рабочий стол/src/Field.h
+
+/home/nikitos/Рабочий стол/src/main.cpp
+iostream
+-
+fstream
+-
+Field.h
+/home/nikitos/Рабочий стол/src/Field.h
+Bot.h
+/home/nikitos/Рабочий стол/src/Bot.h
+MNTS.h
+/home/nikitos/Рабочий стол/src/MNTS.h
+

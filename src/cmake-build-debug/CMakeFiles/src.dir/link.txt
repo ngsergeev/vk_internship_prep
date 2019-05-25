@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/src.dir/Bot.cpp.o CMakeFiles/src.dir/Field.cpp.o CMakeFiles/src.dir/main.cpp.o CMakeFiles/src.dir/MNTS.cpp.o  -o src 
